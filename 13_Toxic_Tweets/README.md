@@ -12,7 +12,9 @@ Train the model to classify comments as positive and negative. You have at your 
 
 ## Data
 
-You have one folder with all images (/ final_files) and a csv file labels.csv with two columns: file_name and real_age.
+The data is in the file /datasets/toxic_comments.csv
+
+The text column contains the comment text, and toxic is the target feature.
 
 
 ## Libraries used
