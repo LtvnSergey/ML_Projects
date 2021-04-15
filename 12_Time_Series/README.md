@@ -28,7 +28,7 @@ The number of orders is in the 'num_orders' column (from the English number of o
 
 ## Main steps
 
-1. Load and resample data 2
+1. Load and resample data
 2. Data analysis, decomposition to trend, seasonal and periodic components
 3. Prepare features for time series predictions
 4. Train Linear Regression model with different hyperparameters
