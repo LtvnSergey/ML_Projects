@@ -28,3 +28,13 @@ Telecommunication operator Nedinogorazryva.com wants to learn how to predict cus
 - warnings
 - time
 - sklearn
+
+
+## Main steps
+
+1. Data analysis to identify features that allow you to separate regular customers from those who left
+2. Preparing features for machine learning
+3. Hyperparameters testing for Random Forest Classifier model
+4. Hyperparameters testing for Gradient Boosting Classifier model
+5. Comparing model results on test data using AUC-ROC and Accuracy metrics
+
