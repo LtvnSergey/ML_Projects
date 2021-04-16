@@ -16,3 +16,4 @@ These projects were completed during training at Yandex.Praktikum, profession "D
 | 09_Gold_Recovery | Predicting recovery rate of gold from a gold-bearing ore | Regression | pandas, matplotlib, seaborn, numpy, warnings, sklearn
 | 08_Wells | Decide where to drill the new well, based on data from 3 regions | Regression | pandas, matplotlib, seaborn, numpy, warnings, sklearn
 | 07_Customer_Churn | Predict whether the client will leave the bank in the near future or not | Classification on unbalanced data | pandas, matplotlib, seaborn, numpy, warnings, sklearn
+| 06_Tariffs | Build a system that can analyze customer behavior and offer users a new tariff: "Smart" or "Ultra" | Classification | pandas, matplotlib, seaborn, numpy, sklearn
