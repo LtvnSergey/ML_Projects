@@ -15,3 +15,4 @@ These projects were completed during training at Yandex.Praktikum, profession "D
 | 11_Autos |  Determine cost of car based on technical characteristics, equipment and prices of cars | Regression | pandas, matplotlib, seaborn, numpy, warnings, time, math, sklearn, lightgbm
 | 09_Gold_Recovery | Predicting recovery rate of gold from a gold-bearing ore | Regression | pandas, matplotlib, seaborn, numpy, warnings, sklearn
 | 08_Wells | Decide where to drill the new well, based on data from 3 regions | Regression | pandas, matplotlib, seaborn, numpy, warnings, sklearn
+| 07_Customer_Churn | Predict whether the client will leave the bank in the near future or not | Classification on inbalanced data | pandas, matplotlib, seaborn, numpy, warnings, sklearn
