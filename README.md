@@ -13,3 +13,4 @@ These projects were completed during training at Yandex.Praktikum, profession "D
 | 13_Toxic_Tweets |  Classification of comments as positive and negative | Text Classification | pandas, matplotlib, seaborn, numpy, warnings, time, re, textblob, pymystem3, nltk, sklearn
 | 12_Time_Series |  To attract more drivers during peak periods, you need to predict the number of taxi orders for the next hour | Time Series Regression | pandas, matplotlib, seaborn, numpy, warnings, time, scipy, sklearn, lightgbm
 | 11_Autos |  Determine cost of car based on technical characteristics, equipment and prices of cars | Regression | pandas, matplotlib, seaborn, numpy, warnings, time, math, sklearn, lightgbm
+| 09_Gold_Recovery |  Predicting recovery rate of gold from a gold-bearing ore | Regression | pandas, matplotlib, seaborn, numpy, warnings, sklearn
