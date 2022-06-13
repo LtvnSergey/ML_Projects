@@ -1,9 +1,9 @@
-# YPraktikum_Projects
+# ML_Projects
 
 
 ## Description
 
-These projects were completed during training at Yandex.Praktikum, profession "Data Science Specialist"
+These projects were completed during training at Yandex.Praktikum, profession "Data Science Specialist" and Kaggle competitions
 
 
 | Project name | Description | Problem Type | Libraries used
